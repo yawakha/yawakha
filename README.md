@@ -16,6 +16,7 @@ and hobby guitarist (I suck at it too) living in *rich* Switzerland!
 ### **My Goals for the Future**
 - Stay alive (hopefully)
 - Read the Bible completly
+- Don't go to the hospital again (I hate this stupid place)
 
 ```hc
 U0 HelloWorld()
