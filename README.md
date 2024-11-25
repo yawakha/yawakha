@@ -7,6 +7,11 @@
 Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)<br>
 and hobby guitarist (I suck at it too) living in *rich* Switzerland!
 
+### **My Programming Languages (I suck at all of them)**
+- HTML5 (ik its not a programming language)
+- CSS (ik too)
+- JavaScript (I code as inefficiant as possible)
+
 <div align="center">
 <a href="https://x.com/@kamaki_iv"><img src="./twitter-schwarze-form.png" width="50px"></img></a>
 <a href="https://www.youtube.com/@kamaki.mp3"><img src="./youtube.png" width="50px"></img></a>
