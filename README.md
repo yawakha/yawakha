@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="./pixl/0 gelb pxl.png" width="75px"></img>
-  <img src="./pixl/1 orange pxl.png" width="75px"></img>
-  <img src="./pixl/2 rot pxl.png" width="75px"></img>
-  <img src="./pixl/3 magenta pxl.png" width="75px"></img>
-  <img src="./pixl/4 violett pixl.png" width="75px"></img>
-  <img src="./pixl/5 blau pxl.png" width="75px"></img>
-  <img src="./pixl/6 grün pxl.png" width="75px"></img>
+  <img src="./pixl/0 gelb pxl.png" width="64px"></img>
+  <img src="./pixl/1 orange pxl.png" width="64px"></img>
+  <img src="./pixl/2 rot pxl.png" width="64px"></img>
+  <img src="./pixl/3 magenta pxl.png" width="64px"></img>
+  <img src="./pixl/4 violett pixl.png" width="64px"></img>
+  <img src="./pixl/5 blau pxl.png" width="64px"></img>
+  <img src="./pixl/6 grün pxl.png" width="64px"></img>
 </div>
 
 <h1 align="center">ＩＣ ＸＣ ＮＩ ＫＡ</h1>
