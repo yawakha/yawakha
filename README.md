@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" width="600px"></img>
 </div>
-
+<br>
 <div align="center">
   <img src="./pixl/0 gelb pxl.png" width="64px"></img>
   <img src="./pixl/1 orange pxl.png" width="64px"></img>
@@ -28,7 +28,7 @@ and hobby guitarist (I suck at it too) living in *rich* Switzerland!
 - Stay alive (hopefully)
 - Read the Bible completly
 - Don't go to the hospital again (I hate this stupid place)
-
+<br><br>
 ```hc
 U0 HelloWorld()
 {
@@ -37,7 +37,7 @@ U0 HelloWorld()
 
 HelloWorld;
 ```
-
+<br><br>
 <div align="center">
   <a href="https://x.com/@kamaki_iv"><img src="./twitter-schwarze-form.png" width="50px"></img></a>
   <a href="https://www.youtube.com/@kamaki.mp3"><img src="./youtube.png" width="50px"></img></a>
