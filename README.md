@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" width="600px"></img>
 </div>
-# **`ＩＣ ＸＣ ＮＩ ＫＡ`**
+## **`ＩＣ ＸＣ ＮＩ ＫＡ`**
 
 ### **Introduction**
 Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)<br>
