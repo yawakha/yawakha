@@ -10,7 +10,7 @@ and hobby guitarist (I suck at it too) living in *rich* Switzerland!
 ### **My Programming Languages (I suck at all of them)**
 - HTML (ik its not a programming language)
 - CSS (ik too)
-- JavaScript (I code as inefficiant as possible)
+- `JavaScript` (I code as inefficiant as possible)
 - *Holy C* (idk how it works I just find it cool)
 
 <div align="center">
