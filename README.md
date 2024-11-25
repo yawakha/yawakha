@@ -3,7 +3,7 @@
 </div>
 
 ### **Introduction**
-Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)
+Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)<br>
 and hobby gittarrist (I suck at it) living in Switzerland!
 
 <div align="center">
