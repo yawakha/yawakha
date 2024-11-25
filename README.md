@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" width="600px"></img>
 </div>
-<h1 align="center">ＩＣ ＸＣ ＮＩ ＫＡ<h1>
+<h1 align="center">ＩＣ ＸＣ ＮＩ ＫＡ</h1>
 
 ### **Introduction**
 Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)<br>
