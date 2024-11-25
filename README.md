@@ -8,9 +8,10 @@ Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck
 and hobby guitarist (I suck at it too) living in *rich* Switzerland!
 
 ### **My Programming Languages (I suck at all of them)**
-- HTML5 (ik its not a programming language)
+- HTML (ik its not a programming language)
 - CSS (ik too)
 - JavaScript (I code as inefficiant as possible)
+- *Holy C* (idk how it works I just find it cool)
 
 <div align="center">
 <a href="https://x.com/@kamaki_iv"><img src="./twitter-schwarze-form.png" width="50px"></img></a>
