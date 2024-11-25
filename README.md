@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">ＩＣ ＸＣ ＮＩ ＫＡ<h1>
 
-### **Introduction**
+**Introduction**
 Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)<br>
 and hobby gittarrist (I suck at it too) living in *rich* Switzerland!
 
