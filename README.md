@@ -14,6 +14,10 @@
 
 <h1 align="center">ＩＣ ＸＣ ＮＩ ＫＡ</h1>
 
+<div align="center">
+  <img src="./cat-space.gif" height="220px" width="660px"></img>
+</div>
+
 ### **Introduction**
 Khello I'm Kamaki(j) - *aka. Yawakha aka. Raspel*, I'm a hobby developer (I suck at it)<br>
 and hobby guitarist (I suck at it too) living in *rich* Switzerland!
@@ -27,7 +31,6 @@ and hobby guitarist (I suck at it too) living in *rich* Switzerland!
 ### **My Goals for the Future**
 - Stay alive (hopefully)
 - Read the Bible completly
-- Don't go to the hospital again (I hate this stupid place)
 <br><br>
 ```hc
 U0 HelloWorld()
